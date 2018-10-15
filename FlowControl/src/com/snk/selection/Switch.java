@@ -18,6 +18,7 @@ public static void main(String[] args) {
 		break;
 	default:
 		System.out.println("sam");	
+		System.out.println("sanyam");
 	}
 }
 }
